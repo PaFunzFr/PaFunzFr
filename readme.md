@@ -1,16 +1,17 @@
-<div align="center">
-  <img src="assets/banner.gif" width="100%" alt="linkedin logo"  />
-  <a href="https://www.linkedin.com/in/patrick-frey-690000164/">
-    <img src="assets/img/social/linkedin.svg" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/patfre89">
-    <img src="assets/img/social/discord.svg" height="25" alt="discord logo"  />
-  </a>
-</div>
+<img src="assets/banner.gif" width="100%" alt="banner logo"  />
 
 ###
 
 <h1 align="center">Patrick Frey | Full-Stack Developer</h1>
+<div align="center">
+  <a href="https://www.linkedin.com/in/patrick-frey-690000164/">
+    <img src="assets/img/social/linkedin.svg" height="25" alt="linkedin logo"  />
+  </a>
+  <img width="60px" />
+  <a href="https://discord.com/users/patfre89">
+    <img src="assets/img/social/discord.svg" height="25" alt="discord logo"  />
+  </a>
+</div>
 
 ###
 
