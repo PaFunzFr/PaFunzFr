@@ -1,4 +1,7 @@
+
+
 <div align="center">
+  <img src="assets/banner.gif" width="100%" alt="linkedin logo"  />
   <a href="https://www.linkedin.com/in/patrick-frey-690000164/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
