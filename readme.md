@@ -17,7 +17,7 @@
 <h2 align="left">About Me</h2>
 
 ###
-<img src="assets/img/hero/teamwork.jpg" height="200px" alt="linkedin logo"  />
+<img align="center" src="assets/img/hero/teamwork.jpg" height="300px" alt="linkedin logo"  />
 <p align="left">I'm Patrick from Frankfurt, Germany and working as Developer with an architectural background.</p>
 
 ###
