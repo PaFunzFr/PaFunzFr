@@ -17,7 +17,9 @@
 <h2 align="left">About Me</h2>
 
 ###
-<img align="center" src="assets/img/hero/teamwork.jpg" height="300px" alt="linkedin logo"  />
+<p align="center">
+  <img align="center" src="assets/img/hero/teamwork.jpg" height="300px" alt="linkedin logo"  />
+</p>
 <p align="left">I'm Patrick from Frankfurt, Germany and working as Developer with an architectural background.</p>
 
 ###
@@ -31,21 +33,14 @@
 ###
 
 <div align="left">
-  <img src="assets/img/frontend/angular.svg" height="40" alt="angular logo"/>
-  <span width="12"></span>
-  <img src="assets/img/frontend/typescript.svg" height="40" alt="typescript logo"/>
-  <span width="12"></span>
-  <img src="assets/img/frontend/javascript.svg" height="40" alt="javascript logo"/>
-  <span width="12"></span>
-  <img src="assets/img/frontend/html.svg" height="40" alt="html logo"/>
-  <span width="12"></span>
-  <img src="assets/img/frontend/css.svg" height="40" alt="css logo"/>
-  <span width="12"></span>
-  <img src="assets/img/frontend/rxjs.svg" height="40" alt="rxjs logo"/>
-  <span width="12"></span>
-  <img src="assets/img/frontend/threejs.svg" height="40" alt="threejs logo"/>
-  <span width="12"></span>
-  <img src="assets/img/frontend/material.svg" height="40" alt="materialdesign logo"/>
+  <img src="assets/img/frontend/angular.svg" height="40" alt="angular logo" style="margin-right:12px;"/>
+  <img src="assets/img/frontend/typescript.svg" height="40" alt="typescript logo" style="margin-right:12px;"/>
+  <img src="assets/img/frontend/javascript.svg" height="40" alt="javascript logo" style="margin-right:12px;"/>
+  <img src="assets/img/frontend/html.svg" height="40" alt="html logo" style="margin-right:12px;"/>
+  <img src="assets/img/frontend/css.svg" height="40" alt="css logo" style="margin-right:12px;"/>
+  <img src="assets/img/frontend/rxjs.svg" height="40" alt="rxjs logo" style="margin-right:12px;"/>
+  <img src="assets/img/frontend/threejs.svg" height="40" alt="threejs logo" style="margin-right:12px;"/>
+  <img src="assets/img/frontend/material.svg" height="40" alt="materialdesign logo" style="margin-right:12px;"/>
 </div>
 
 ###
@@ -55,25 +50,16 @@
 ###
 
 <div align="left">
-  <img src="assets/img/backend/python.svg" height="40" alt="python logo"/>
-  <span width="12"></span>
-  <img src="assets/img/backend/django.svg" height="40" alt="django logo"/>
-  <span width="12"></span>
-  <img src="assets/img/backend/pytest.svg" height="40" alt="pytest logo"/>
-  <span width="12"></span>
-  <img src="assets/img/backend/docker.svg" height="40" alt="docker logo"/>
-  <span width="12"></span>
-  <img src="assets/img/backend/postman.svg" height="40" alt="postman logo"/>
-  <span width="12"></span>
-  <img src="assets/img/backend/redis.svg" height="40" alt="redis logo"/>
-  <span width="12"></span>
-  <img src="assets/img/backend/postgresql.svg" height="40" alt="postgresql logo"/>
-  <span width="12"></span>
-  <img src="assets/img/backend/coolify.svg" height="40" alt="coolify logo"/>
-  <span width="12"></span>
-  <img src="assets/img/backend/api.svg" height="40" alt="api logo"/>
-  <span width="12"></span>
-  <img src="assets/img/backend/firebase.svg" height="40" alt="firebase logo"/>
+  <img src="assets/img/backend/python.svg" height="40" alt="python logo" style="margin-right:12px;"/>
+  <img src="assets/img/backend/django.svg" height="40" alt="django logo" style="margin-right:12px;"/>
+  <img src="assets/img/backend/pytest.svg" height="40" alt="pytest logo" style="margin-right:12px;"/>
+  <img src="assets/img/backend/docker.svg" height="40" alt="docker logo" style="margin-right:12px;"/>
+  <img src="assets/img/backend/postman.svg" height="40" alt="postman logo" style="margin-right:12px;"/>
+  <img src="assets/img/backend/redis.svg" height="40" alt="redis logo" style="margin-right:12px;"/>
+  <img src="assets/img/backend/postgresql.svg" height="40" alt="postgresql logo" style="margin-right:12px;"/>
+  <img src="assets/img/backend/coolify.svg" height="40" alt="coolify logo" style="margin-right:12px;"/>
+  <img src="assets/img/backend/api.svg" height="40" alt="api logo" style="margin-right:12px;"/>
+  <img src="assets/img/backend/firebase.svg" height="40" alt="firebase logo" style="margin-right:12px;"/>
 </div>
 
 ###
@@ -83,21 +69,14 @@
 ###
 
 <div align="left">
-  <img src="assets/img/des/photoshop.svg" height="40" alt="phososhop logo"/>
-  <span width="12"></span>
-  <img src="assets/img/des/indesign.svg" height="40" alt="indesign logo"/>
-  <span width="12"></span>
-  <img src="assets/img/des/illustrator.svg" height="40" alt="illustrator logo"/>
-  <span width="12"></span>
-  <img src="assets/img/des/adesigner.svg" height="40" alt="adesigner logo"/>
-  <span width="12"></span>
-  <img src="assets/img/des/aphoto.svg" height="40" alt="aphoto logo"/>
-  <span width="12"></span>
-  <img src="assets/img/des/apublisher.svg" height="40" alt="apublisher logo"/>
-  <span width="12"></span>
-  <img src="assets/img/des/figma.svg" height="40" alt="figma logo"/>
-  <span width="12"></span>
-  <img src="assets/img/des/davinci.svg" height="40" alt="davinci logo"/>
+  <img src="assets/img/des/photoshop.svg" height="40" alt="phososhop logo" style="margin-right:12px;"/>
+  <img src="assets/img/des/indesign.svg" height="40" alt="indesign logo" style="margin-right:12px;"/>
+  <img src="assets/img/des/illustrator.svg" height="40" alt="illustrator logo" style="margin-right:12px;"/>
+  <img src="assets/img/des/adesigner.svg" height="40" alt="adesigner logo" style="margin-right:12px;"/>
+  <img src="assets/img/des/aphoto.svg" height="40" alt="aphoto logo" style="margin-right:12px;"/>
+  <img src="assets/img/des/apublisher.svg" height="40" alt="apublisher logo" style="margin-right:12px;"/>
+  <img src="assets/img/des/figma.svg" height="40" alt="figma logo" style="margin-right:12px;"/>
+  <img src="assets/img/des/davinci.svg" height="40" alt="davinci logo" style="margin-right:12px;"/>
 </div>
 
 ###
@@ -107,17 +86,12 @@
 ###
 
 <div align="left">
-  <img src="assets/img/misc/vscode.svg" height="40" alt="vscode logo"/>
-  <span width="12"></span>
-  <img src="assets/img/misc/github.svg" height="40" alt="github logo"/>
-  <span width="12"></span>
-  <img src="assets/img/misc/git.svg" height="40" alt="git logo"/>
-  <span width="12"></span>
-  <img src="assets/img/misc/linux.svg" height="40" alt="linux logo"/>
-  <span width="12"></span>
-  <img src="assets/img/misc/scrum.svg" height="40" alt="scrum logo"/>
-  <span width="12"></span>
-  <img src="assets/img/misc/trello.svg" height="40" alt="trello logo"/>
+  <img src="assets/img/misc/vscode.svg" height="40" alt="vscode logo" style="margin-right:12px;"/>
+  <img src="assets/img/misc/github.svg" height="40" alt="github logo" style="margin-right:12px;"/>
+  <img src="assets/img/misc/git.svg" height="40" alt="git logo" style="margin-right:12px;"/>
+  <img src="assets/img/misc/linux.svg" height="40" alt="linux logo" style="margin-right:12px;"/>
+  <img src="assets/img/misc/scrum.svg" height="40" alt="scrum logo" style="margin-right:12px;"/>
+  <img src="assets/img/misc/trello.svg" height="40" alt="trello logo" style="margin-right:12px;"/>
 </div>
 
 ###
