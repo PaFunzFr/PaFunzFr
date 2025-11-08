@@ -5,11 +5,11 @@
 <h1 align="center">Patrick Frey | Full-Stack Developer</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/patrick-frey-690000164/">
-    <img src="assets/img/social/linkedin.svg" height="25" alt="linkedin logo"  />
+    <img src="assets/img/social/linkedin_new.svg" height="25" alt="linkedin logo"  />
   </a>
   <img width="24" />
   <a href="https://discord.com/users/patfre89">
-    <img src="assets/img/social/discord.svg" height="25" alt="discord logo"  />
+    <img src="assets/img/social/discord_new.svg" height="25" alt="discord logo"  />
   </a>
 </div>
 
