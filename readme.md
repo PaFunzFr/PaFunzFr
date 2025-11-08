@@ -83,7 +83,7 @@
 ###
 
 <div align="left">
-  <img src="assets/img/des/phososhop.svg" height="40" alt="phososhop logo"/>
+  <img src="assets/img/des/photoshop.svg" height="40" alt="phososhop logo"/>
   <span width="12"></span>
   <img src="assets/img/des/indesign.svg" height="40" alt="indesign logo"/>
   <span width="12"></span>
@@ -111,7 +111,7 @@
   <span width="12"></span>
   <img src="assets/img/misc/github.svg" height="40" alt="github logo"/>
   <span width="12"></span>
-  <img src="assets/img/misc/illugitstrator.svg" height="40" alt="git logo"/>
+  <img src="assets/img/misc/git.svg" height="40" alt="git logo"/>
   <span width="12"></span>
   <img src="assets/img/misc/linux.svg" height="40" alt="linux logo"/>
   <span width="12"></span>
