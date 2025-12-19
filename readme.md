@@ -20,7 +20,7 @@
 <p align="center">
   <img align="center" src="assets/img/hero/teamwork.jpg" height="300px" alt="linkedin logo"  />
 </p>
-<p align="left">I'm Patrick from Frankfurt, Germany and working as Developer with an architectural background.</p>
+<p align="center">I'm Patrick from Frankfurt, Germany and working as Developer with an architectural background.</p>
 
 ###
 
