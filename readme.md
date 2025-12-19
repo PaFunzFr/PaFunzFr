@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">Frontend</h3>
+<h3 align="left">Main Stack - Frontend</h3>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h3 align="left">Backend</h3>
+<h3 align="left">Side Stack - Backend</h3>
 
 ###
 
@@ -80,7 +80,7 @@
 
 ###
 
-<h3 align="left">Design</h3>
+<h3 align="left">Site Stack - Design</h3>
 
 ###
 
