@@ -80,7 +80,7 @@
 
 ###
 
-<h3 align="left">Site Stack - Design</h3>
+<h3 align="left">Side Stack - Design</h3>
 
 ###
 
