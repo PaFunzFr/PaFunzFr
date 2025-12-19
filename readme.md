@@ -1,8 +1,7 @@
-<img src="assets/banner.gif" width="100%" alt="banner logo"  />
 
 ###
 
-<h1 align="center">Patrick Frey | Full-Stack Developer</h1>
+<h1 align="center">Patrick Frey | Web Developer</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/patrick-frey-690000164/">
     <img src="assets/img/social/linkedin_new.svg" height="25" alt="linkedin logo"  />
