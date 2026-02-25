@@ -1,7 +1,7 @@
 
 ###
 
-<h1 align="center">Patrick Frey | Web Developer</h1>
+<h1 align="center">Patrick Frey</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/patrick-frey-690000164/">
     <img src="assets/img/social/linkedin_new.svg" height="25" alt="linkedin logo"  />
@@ -20,7 +20,7 @@
 <p align="center">
   <img align="center" src="assets/img/hero/teamwork.jpg" height="300px" alt="linkedin logo"  />
 </p>
-<p align="center">I'm Patrick from Frankfurt, Germany and working as Developer with an architectural background.</p>
+<p align="center">I'm Patrick from Frankfurt, Germany and working as Developer and BIM Expert with an architectural background.</p>
 
 ###
 
